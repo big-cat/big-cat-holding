@@ -44,7 +44,8 @@ input[type=email] {
   padding: .5rem;
   width: 200px;
   background-color: rgba(255, 255, 255, 0.35);
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem;
+  border-radius: 0; }
 
 button {
   padding: .25rem .5rem; }
