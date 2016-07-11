@@ -402,14 +402,14 @@ button {
   .layout__item--pull-11-of-12\@l {
     margin-right: 91.66667%; } }
 .brand-splash {
-  background-image: url(/images/holding-page-branding-mobile.png);
+  background-image: url(../images/holding-page-branding-mobile.png);
   background-repeat: no-repeat;
   width: 100%;
   height: 100px;
   background-position: bottom; }
   @media (min-width: 800px) {
     .brand-splash {
-      background-image: url(/images/holding-page-branding.png);
+      background-image: url(../images/holding-page-branding.png);
       width: 45%;
       height: 100vh;
       background-size: 150vh;
